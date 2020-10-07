@@ -1,0 +1,99 @@
+NPC Root [Root]
+NPC LookNode [Look]
+NPC Translate [Pos ]
+NPC Rotate [Rot ]
+NPC COM [COM ]
+NPC Pelvis [Pelv]
+NPC L Thigh [LThg]
+NPC L Calf [LClf]
+NPC L Foot [Lft ]
+NPC R Thigh [RThg]
+NPC R Calf [RClf]
+NPC R Foot [Rft ]
+x_SkirtRBone01
+x_SkirtRBone02
+x_SkirtRBone03
+x_SkirtLBone01
+x_SkirtLBone02
+x_SkirtLBone03
+x_SkirtBBone01
+x_SkirtBBone02
+x_SkirtBBone03
+x_SkirtFBone01
+x_SkirtFBone02
+x_SkirtFBone03
+NPC Spine [Spn0]
+NPC Spine1 [Spn1]
+NPC Spine2 [Spn2]
+NPC L Clavicle [LClv]
+NPC L UpperArm [LUar]
+NPC L Forearm [LLar]
+NPC R Clavicle [RClv]
+NPC R UpperArm [RUar]
+NPC R Forearm [RLar]
+AnimObjectA
+AnimObjectB
+NPC Neck [Neck]
+NPC Head [Head]
+NPCEyeBone
+NPC L Hand [LHnd]
+NPC R Hand [RHnd]
+AnimObjectL
+AnimObjectR
+SHIELD
+WEAPON
+NPC L Pauldron
+NPC R Pauldron
+MagicEffectsNode
+NPC L MagicNode [LMag]
+NPC R MagicNode [RMag]
+NPC Head MagicNode [Hmag]
+NPC L Toe0 [LToe]
+NPC R Toe0 [RToe]
+NPC L ForearmTwist1 [LLt1]
+NPC L ForearmTwist2 [LLt2]
+NPC L UpperarmTwist1 [LUt1]
+NPC L UpperarmTwist2 [LUt2]
+NPC R ForearmTwist1 [RLt1]
+NPC R ForearmTwist2 [RLt2]
+NPC R UpperarmTwist1 [RUt1]
+NPC R UpperarmTwist2 [RUt2]
+QUIVER
+WeaponAxe
+WeaponBack
+WeaponBow
+WeaponDagger
+WeaponMace
+WeaponSword
+NPC L Finger00 [LF00]
+NPC L Finger01 [LF01]
+NPC L Finger02 [LF02]
+NPC L Finger10 [LF10]
+NPC L Finger11 [LF11]
+NPC L Finger12 [LF12]
+NPC L Finger20 [LF20]
+NPC L Finger21 [LF21]
+NPC L Finger22 [LF22]
+NPC L Finger30 [LF30]
+NPC L Finger31 [LF31]
+NPC L Finger32 [LF32]
+NPC L Finger40 [LF40]
+NPC L Finger41 [LF41]
+NPC L Finger42 [LF42]
+NPC R Finger00 [RF00]
+NPC R Finger01 [RF01]
+NPC R Finger02 [RF02]
+NPC R Finger10 [RF10]
+NPC R Finger11 [RF11]
+NPC R Finger12 [RF12]
+NPC R Finger20 [RF20]
+NPC R Finger21 [RF21]
+NPC R Finger22 [RF22]
+NPC R Finger30 [RF30]
+NPC R Finger31 [RF31]
+NPC R Finger32 [RF32]
+NPC R Finger40 [RF40]
+NPC R Finger41 [RF41]
+NPC R Finger42 [RF42]
+Camera1st [Cam1]
+Camera Control

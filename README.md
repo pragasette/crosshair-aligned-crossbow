@@ -6,7 +6,7 @@ target when aiming in first person.
 
 ## Features
 
-None yet.
+- Align first person standard crossbows with the crosshair.
 
 
 [Skyrim]: https://store.steampowered.com/app/72850
