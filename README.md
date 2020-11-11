@@ -25,7 +25,15 @@ required:
 - Autodesk 3ds Max 2010
 - Havok PcXs Content Tools 2010.2.0
 
+## License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][CC BY-SA 4.0].
+
 
 [Skyrim]: https://store.steampowered.com/app/72850
 [Dawnguard]: https://store.steampowered.com/app/211720
 [Mod Organizer 2]: https://www.nexusmods.com/skyrimspecialedition/mods/6194
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
