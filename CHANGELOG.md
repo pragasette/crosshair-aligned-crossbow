@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog] and this project adheres to
 - This changelog.
 - Readme.
 - Aligned standard crossbow animations.
+- Aligned Dwarven crossbow animations.
 
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
