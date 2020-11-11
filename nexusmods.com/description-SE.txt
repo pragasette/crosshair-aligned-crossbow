@@ -1,0 +1,22 @@
+[center][font=bebas_neuebook][size=5][url=https://www.nexusmods.com/skyrim/mods/105457]Classic Edition[/url] • Special Edition﻿ • [url=https://github.com/pragasette/crosshair-aligned-crossbow]GitHub﻿[/url]﻿[/size][/font][/center]
+
+
+[heading]Features[/heading]
+[list]
+[*] Align first person standard and Dwarven crossbows with the crosshair.
+[/list]
+
+[heading]Installation[/heading]
+Use your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
+&#8203;
+
+[heading]Credits[/heading]
+[list]
+[*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/23316]Cathedral Assets Optimizer[/url], used to convert the animations.
+[/list]
+
+[heading]License[/heading]
+[img]https://i.creativecommons.org/l/by-sa/4.0/88x31.png[/img]
+&#8203;
+This work is licensed under a [url=https://creativecommons.org/licenses/by-sa/4.0/]Creative Commons Attribution-ShareAlike 4.0 International License[/url].
+&#8203;
