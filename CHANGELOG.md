@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog] and this project adheres to
 
 ### Fixed
 - Dwarven crossbow sneaking position.
+- Dwarven crossbow bolt disappearing when sneaking.
 
 ## [1.0.0] - 2020-11-11
 
