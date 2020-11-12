@@ -1,9 +1,12 @@
 [center][font=bebas_neuebook][size=5][url=https://www.nexusmods.com/skyrim/mods/105457]Classic Edition[/url] • Special Edition﻿ • [url=https://github.com/pragasette/crosshair-aligned-crossbow]GitHub﻿[/url]﻿[/size][/font][/center]
 
 
+This is an animation replacer especially intended for [url=https://www.nexusmods.com/skyrimspecialedition/mods/12440]Immersive HUD[/url] and hidden crosshair.
+
 [heading]Features[/heading]
 [list]
-[*] Align first person standard and Dwarven crossbows with the crosshair.
+[*] Replace first person crossbow animations to line up with the target.
+[*] No plugin, safe to remove at any time.
 [/list]
 
 [heading]Installation[/heading]

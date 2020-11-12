@@ -1,12 +1,15 @@
 # Crosshair-aligned Crossbow
 
-_Crosshair-aligned Crossbow_ is a mod for
-[The Elder Scrolls V: Skyrim][Skyrim] to make crossbows line up with the
-target when aiming in first person.
+_Crosshair-aligned Crossbow_ is a mod for [The Elder Scrolls V: Skyrim][Skyrim]
+to improve first person aiming with crossbows.
+
+This is an animation replacer especially intended for [Immersive HUD][iHUD] and
+hidden crosshair.
 
 ## Features
 
-- Align first person standard and Dwarven crossbows with the crosshair.
+- Replace first person crossbow animations to line up with the target.
+- No plugin, safe to remove at any time.
 
 ## Requirements
 
@@ -35,5 +38,6 @@ International License][CC BY-SA 4.0].
 
 [Skyrim]: https://store.steampowered.com/app/72850
 [Dawnguard]: https://store.steampowered.com/app/211720
+[iHUD]: https://www.nexusmods.com/skyrim/mods/3222
 [Mod Organizer 2]: https://www.nexusmods.com/skyrimspecialedition/mods/6194
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
